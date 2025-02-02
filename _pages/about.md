@@ -20,6 +20,7 @@ redirect_from:
 # About Me
 Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by Prof. Chen Lv. This March, I am excited to join the [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) as a visiting Ph.D. scholar, hosted by Prof. Hank Yang. Previously, I had the pleasure of collaborating with Prof. Francesco Braghin during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
 
+📌 I will graduate in Summer 2025 and am actively seeking a postdoctoral researcher position! Please reach out to me if you think I might be a good fit. 📌
 
 # Research Interests
 
