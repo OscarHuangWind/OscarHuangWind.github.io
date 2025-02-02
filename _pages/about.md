@@ -57,7 +57,7 @@ Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'24</div><img src='images/WiseAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model](https://arxiv.org/abs/2412.09951)
+[WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model](https://arxiv.org/abs/2412.09951) [![](https://img.shields.io/github/stars/wyddmw/WiseAD?style=social&label=Code Stars)](https://github.com/wyddmw/WiseAD)
 
 Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zihui Gao, Hao Chen, Chen Lv <br>
 <sup>1</sup>Equal Contributions
