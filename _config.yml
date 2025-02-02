@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenhui Oscar Huang"
 description              : "PhD candidate at NTU, Visiting PhD Scholar at Harvard University."
-repository               : "OscarHuangWind.github.io"
+repository               : "OscarHuangWind/OscarHuangWind.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
