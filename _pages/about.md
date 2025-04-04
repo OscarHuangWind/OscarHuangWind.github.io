@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by Prof. Chen Lv. This March, I am excited to join the [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) as a visiting Ph.D. scholar, hosted by Prof. Hank Yang. Previously, I had the pleasure of collaborating with Prof. Francesco Braghin during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
+Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by Prof. Chen Lv. This March, I am excited to join the [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) as a visiting fellow, hosted by Prof. Hank Yang. Previously, I had the pleasure of collaborating with Prof. Francesco Braghin during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
 
 📌 I will graduate in Summer 2025 and am actively seeking a postdoctoral researcher position! Please reach out to me if you think I might be a good fit. 📌
 
@@ -36,12 +36,14 @@ Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the
 
 
 # 🔥 News
+- *Apr. 2025*: &nbsp;🌱🌱 I am honored to be recognized as a [featured PhD candidate](https://ieeexplore.ieee.org/document/10938667) in ITS field by IEEE Intelligent Transportation Systems Society (ITSS)! 
+- *Mar. 2025*: &nbsp;🌱🌱 Our paper on deep imitative reinforcement learning-based decision-making for autonomous driving has been accepted by Transportation Research Part C! 
 - *Jan. 2025*: &nbsp;☃️☃️ Our paper on integrated hybrid prediction and planning for autonomous driving has been accepted by TPAMI! 
 - *Dec. 2024*: &nbsp;🎄🎄 Our work on VLM-based closed-loop autonomous driving is now available on arXiv! [WiseAD](https://arxiv.org/abs/2412.09951) 
 - *Jul. 2024*: &nbsp;🏖️🏖️ Our ITSC 2025 invited session on [Learning-empowered Intelligent Transportation Systems: Foundation Vehicles and Coordination Technique](https://oscarhuangwind.github.io/Foundation_Vehicle/) received 11 paper submissions, and 10 papers were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
 - *Jun. 2024*: &nbsp;🏖️🏖️ Our paper on safety human-in-the-loop RL for autonomous driving has been accepted by T-ITS! 
 - *Jun. 2024*: &nbsp;🏆🏆 Our team secured first place in the Waymo Open Dataset Occupancy Flow Challenge and second place in the Sim Agents Challenge! Check out our technical reports on the [Waymo challenge website](https://waymo.com/open/challenges/) and [CVPR 2024 Workshop on Autonomous Driving](https://cvpr2024.wad.vision/).
-- *May. 2024*: &nbsp;🏖️🏖️ Visited [Gran Turismo Sophy team](https://www.gran-turismo.com/us/gran-turismo-sophy/) at Sony AI, Japan, and gave a talk on RL for autonomous racing!
+- *May. 2024*: &nbsp;🌱🌱 Visited [Gran Turismo Sophy team](https://www.gran-turismo.com/us/gran-turismo-sophy/) at Sony AI, Japan, and gave a talk on RL for autonomous racing!
 - *Apr. 2024*: &nbsp;🌱🌱 Our paper on robust RL for autonomous driving has been accepted by Transportation Research Part C: Emerging Technologies! 
 - *Jan. 2024*: &nbsp;☃️☃️ Our paper on uncertainty-aware RL with human guidance for autonomous driving has been accepted by ICRA! See you in Yokohama, Japan!
 - *Nov. 2023*: &nbsp;☃️☃️ Our paper on robust RL for decision-making has been accepted by Engineering!
@@ -174,6 +176,7 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - [Autonomous vehicle driving via deep deterministic policy gradient](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2019/59216/1069916), **Wenhui Huang**, Francesco Braghin, Stefano Arrigoni, **ASME IDETC-CIE'19**
 
 # 🎖 Honors and Awards
+- *Apr. 2025* [Featured PhD Candidate in ITS field](https://ieeexplore.ieee.org/document/10938667), IEEE ITSM.
 - *Jun. 2024* [1st Place Winner, Waymo Open Dataset Occupancy Flow Challenge](https://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving. 
 - *Sep. 2024* Best Paper Runner-up Award, ITSC 2023. 
 - *Dec. 2022* 2nd Place Winner, Intelligent Algorithm Final of Alibaba Global Future Vehicle Challenge.
@@ -190,6 +193,7 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 # 📚 Academic Services
 
 ## Program Committee
+- Lead organizer of Invited Session on "Foundation Model-Enabled Scene Understanding, Reasoning, and Decision-Making for Autonomous Driving and ITS" at ITSC, 2025. (Website to be updated)
 - Lead organizer of Invited Session on [Learning-empowered Intelligent Transportation Systems: Foundation Vehicles and Coordination Technique](https://oscarhuangwind.github.io/Foundation_Vehicle/) at ITSC, 2024
 
 ## Journal Reviewer
@@ -198,16 +202,23 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Intelligent Vehicles (TIV)
-- Engineering
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
+- Engineering
 
 ## Conference Reviewer
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025
 - IEEE International Conference on Robotics and Automation (ICRA) 2023 – 2025
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - 2024
-- IEEE Intelligent Vehicles Symposium (IV) 2023 – 2024
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - 2025
+- IEEE Intelligent Vehicles Symposium (IV) 2023 – 2025
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2025
 
 # 💬 Invited Talks
+- *Mar 2025*, Reinforced Continual Evolution of Decision-Making Systems <br>
+  School of Vehicle and Mobility, Tsinghua University, Beijing, China. <br>
+  Traffic Operations and Simulations Lab, Tongji University, Shanghai, China.
+- *Feb. 2025*, Reinforced Continual Evolution of Decision-Making Systems <br>
+  Engineering Research Center for Intelligent Electrified Mobility, SouthEast University, Nanjing, China. <br>
+  Prof. Chunhua Shen's Lab, Zhejiang University, Hangzhou, China.
 - *Nov. 2024*, Reinforced Continual Evolution of Decision-Making Systems, Harvard Computational Robotics Group, Harvard University, Cambridge, USA.
 - *Sep. 2024*, Reinforcement Learning-empowered Decision Making for Autonomous
 Driving under Knowledge Guidance, Michigan Traffic Lab, University of Michigan, Michigan, USA.
@@ -215,6 +226,6 @@ Driving under Knowledge Guidance, Michigan Traffic Lab, University of Michigan, 
 and Autonomous Racing, Gran Turismo Sophy team, Sony AI, Tokyo, Japan.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- comming soon!
+<!-- # 💻 Internships
+- comming soon! -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
