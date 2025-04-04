@@ -36,7 +36,7 @@ Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the
 
 
 # 🔥 News
-- *Apr. 2025*: &nbsp;🌱🌱 I am honored to be recognized as a [featured PhD candidate](https://ieeexplore.ieee.org/document/10938667) in ITS field by IEEE Intelligent Transportation Systems Society (ITSS)! 
+- *Apr. 2025*: &nbsp;🏅🏅 I am honored to be recognized as a [featured PhD candidate](https://ieeexplore.ieee.org/document/10938667) in ITS field by IEEE Intelligent Transportation Systems Society (ITSS)! 
 - *Mar. 2025*: &nbsp;🌱🌱 Our paper on deep imitative reinforcement learning-based decision-making for autonomous driving has been accepted by Transportation Research Part C! 
 - *Jan. 2025*: &nbsp;☃️☃️ Our paper on integrated hybrid prediction and planning for autonomous driving has been accepted by TPAMI! 
 - *Dec. 2024*: &nbsp;🎄🎄 Our work on VLM-based closed-loop autonomous driving is now available on arXiv! [WiseAD](https://arxiv.org/abs/2412.09951) 
