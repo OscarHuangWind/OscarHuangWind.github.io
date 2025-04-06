@@ -224,6 +224,25 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 Driving under Knowledge Guidance, Michigan Traffic Lab, University of Michigan, Michigan, USA.
 - *May. 2024*, Uncertainty-aware Reinforcement Learning for Autonomous Driving
 and Autonomous Racing, Gran Turismo Sophy team, Sony AI, Tokyo, Japan.
+
+<hr>
+
+<p align="center">
+  👀 Visits: <span id="visit-counter">Loading...</span>
+</p>
+
+<script>
+  fetch('https://api.countapi.xyz/hit/oscarhuangwind.github.io/visits')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('visit-counter').innerText = data.value;
+    })
+    .catch(error => {
+      console.error('Visit counter error:', error);
+      document.getElementById('visit-counter').innerText = "N/A";
+    });
+</script>
+
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
