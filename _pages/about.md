@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by Prof. Chen Lv. This March, I am excited to join the [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) as a visiting fellow, hosted by Prof. Hank Yang. Previously, I had the pleasure of collaborating with Prof. Francesco Braghin during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
+Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) and [Harvard Embodied Minds Lab](https://embodied-minds-lab.github.io/), co-advised by <u>Prof. Heng Yang</u> and <u>Prof. Yilun Du</u>. I was a PhD and Research Associate in [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by <u>Prof. Chen Lv</u>, and a Visiting PhD Scholar in Harvard Computational Robotics Group. Previously, I had the pleasure of collaborating with Prof. <u>Francesco Braghin</u> during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
 
-📌 I will graduate in Summer 2025 and am actively seeking a postdoctoral researcher position! Please reach out to me if you think I might be a good fit. 📌
+<!-- 📌 I will graduate in Summer 2025 and am actively seeking a postdoctoral researcher position! Please reach out to me if you think I might be a good fit. 📌 -->
 
 # Research Interests
 
@@ -36,6 +36,11 @@ Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the
 
 
 # 🔥 News
+- *Feb. 2026*: &nbsp;🏅🏅 I am honored to be recognized as a [featured Postdoctoral Researcher](https://www.linkedin.com/feed/update/urn:li:activity:7424743851569061889/) by MAE department, NTU!
+- *Dec. 2025*: &nbsp;☃️☃️ Our work on *enhancing open-ended reasoning of AD-tailored VLM through reinforced fine-tuning (RFT)* is now available on arXiv! [OpenREAD](https://arxiv.org/abs/2512.01830)
+- *Oct. 2025*: &nbsp;🍁🍁 Our work on *Mixture-of-Transformers-based VLA with unified Fast-Slow reasoning* is now available on arXiv! [MoTVLA](https://arxiv.org/abs/2510.18337)
+- *Aug. 2025*: &nbsp;🏅🏅 I am awarded as a [Winner of Asia-Pacific Region](https://www.linkedin.com/posts/itswc2019_itss-itssingapore-intelligent-activity-7367088514867363843-9ajc/) in Future Leaders Program of ITS World Congress 2025, and will give an invited talk in Atlanta, see you there!
+- *May. 2025*: &nbsp;🏅🏅 Our team secured the [Champion](https://www.linkedin.com/posts/ntumae_ntusg-ntumae-hackathon2025-activity-7319962293352427520-rcuL/) in [𝗜𝗧𝗦𝗦 𝘅 𝗟𝗧𝗔 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 2025](https://itss-lta-hackathon2025.carrd.co/#)!
 - *Apr. 2025*: &nbsp;🏅🏅 I am honored to be recognized as a [featured PhD candidate](https://ieeexplore.ieee.org/document/10938667) in ITS field by IEEE Intelligent Transportation Systems Society (ITSS)! 
 - *Mar. 2025*: &nbsp;🌱🌱 Our paper on deep imitative reinforcement learning-based decision-making for autonomous driving has been accepted by Transportation Research Part C! 
 - *Jan. 2025*: &nbsp;☃️☃️ Our paper on integrated hybrid prediction and planning for autonomous driving has been accepted by TPAMI! 
@@ -56,6 +61,41 @@ Ciao! I am Wenhui (Oscar) Huang, a Ph.D. candidate and Research Associate in the
 # 📝 Publications 
 
 ## Highlights
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv'25</div>
+      <img src='images/MoTVLA_Gif_Teaser.gif' alt="动态演示" width="100%" style="height: auto; object-fit: contain;">>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning](https://arxiv.org/abs/2510.18337) 
+
+<!-- [![](https://img.shields.io/github/stars/OscarHuangWind/Safe-Human-in-the-Loop-RL?style=social&label=Code Stars)](https://github.com/OscarHuangWind/Safe-Human-in-the-Loop-RL) -->
+
+**Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang
+
+[**Project**](https://motvla.github.io/MoTVLA-website/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a **Mixture-of-Transformers–based vision–language–action (VLA) model, termed MoTVLA, featuring unified fast–slow reasoning to enable language-steerable action diffusion with motion decomposition**. This design enhances both semantic understanding (general & robotics reasoning) and manipulation performance (Simulation & Real-World) in long-horizon tasks.
+
+The source code and model checkpoints will be released by March 2026.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'25</div><img src='images/openread.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830) [![](https://img.shields.io/github/stars/wyddmw/OpenREAD?style=social&label=Code Stars)](https://github.com/wyddmw/OpenREAD)
+
+Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zhen Chen, Collister Chua, Qihang Huang, Chen Lv <br>
+<sup>1</sup>Equal Contributions
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Hpatee0AAAAJ&citation_for_view=Hpatee0AAAAJ:HDshCWvjkbEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We enhance **open-ended reasoning through reinforcement fine-tuning (RFT) by introducing an LLM-as-Critic mechanism**, and achieve joint training with trajectory planning for VLM-based autonomous driving.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'24</div><img src='images/WiseAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,6 +187,11 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 
 
 ## Selected Publications
+
+- [MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning](https://arxiv.org/abs/2510.18337), **Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang, **arXiv'25**
+
+- [OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830), Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zihui Gao, Hao Chen, Chen Lv, **arXiv'25** [![](https://img.shields.io/github/stars/wyddmw/OpenREAD?style=social&label=Code Stars)](https://github.com/wyddmw/OpenREAD)
+
 - [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10833731), Haochen Liu, Zhiyu Huang, **Wenhui Huang**, Haohan Yang, Xiaoyu Mo, Chen Lv, **IEEE T-PAMI'25** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 
 - [WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model](https://arxiv.org/abs/2412.09951), Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zihui Gao, Hao Chen, Chen Lv, **arXiv'24** [![](https://img.shields.io/github/stars/wyddmw/WiseAD?style=social&label=Code Stars)](https://github.com/wyddmw/WiseAD)
@@ -176,6 +221,9 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - [Autonomous vehicle driving via deep deterministic policy gradient](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2019/59216/1069916), **Wenhui Huang**, Francesco Braghin, Stefano Arrigoni, **ASME IDETC-CIE'19**
 
 # 🎖 Honors and Awards
+- *Feb. 2026* [featured Postdoctoral Researcher](https://www.linkedin.com/feed/update/urn:li:activity:7424743851569061889/), MAE NTU.
+- *Aug. 2025* [Winner of Asia-Pacific Region](https://www.linkedin.com/posts/itswc2019_itss-itssingapore-intelligent-activity-7367088514867363843-9ajc/), Future Leaders Program of ITS World Congress 2025.
+- *May. 2025* [Champion of 𝗜𝗧𝗦𝗦 𝘅 𝗟𝗧𝗔 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 2025](https://www.linkedin.com/posts/ntumae_ntusg-ntumae-hackathon2025-activity-7319962293352427520-rcuL).
 - *Apr. 2025* [Featured PhD Candidate in ITS field](https://ieeexplore.ieee.org/document/10938667), IEEE ITSM.
 - *Jun. 2024* [1st Place Winner, Waymo Open Dataset Occupancy Flow Challenge](https://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving. 
 - *Sep. 2024* Best Paper Runner-up Award, ITSC 2023. 
@@ -193,7 +241,8 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 # 📚 Academic Services
 
 ## Program Committee
-- Lead organizer of Invited Session on "Foundation Model-Enabled Scene Understanding, Reasoning, and Decision-Making for Autonomous Driving and ITS" at ITSC, 2025. (Website to be updated)
+- Organizer of Invited Session on "Foundation Model-Empowered Decision-making and Planning for Intelligent Mobility Systems" at ITSC, 2026.
+- Lead organizer of Invited Session on [Foundation Model-Enabled Scene Understanding, Reasoning, and Decision-Making for Autonomous Driving and ITS](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC, 2025.
 - Lead organizer of Invited Session on [Learning-empowered Intelligent Transportation Systems: Foundation Vehicles and Coordination Technique](https://oscarhuangwind.github.io/Foundation_Vehicle/) at ITSC, 2024
 
 ## Journal Reviewer
@@ -203,17 +252,25 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Intelligent Vehicles (TIV)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Robotics and Automation Letters (RA-L)
+- The International Journal of Robotics Research (IJRR)
+- Transportation Research Part C: Emerging Technologies (Part C)
 - Engineering
 
 ## Conference Reviewer
+- Forty-Third International Conference on Machine Learning (ICML) 2026
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025
-- IEEE International Conference on Robotics and Automation (ICRA) 2023 – 2025
+- IEEE International Conference on Robotics and Automation (ICRA) 2023 – 2026
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - 2025
-- IEEE Intelligent Vehicles Symposium (IV) 2023 – 2025
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2025
+- IEEE Intelligent Vehicles Symposium (IV) 2023 – 2026
+- IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2026
 
-# 💬 Invited Talks
-- *Mar 2025*, Reinforced Continual Evolution of Decision-Making Systems <br>
+# 💬 Invited Talk
+- *Sep. 2025*, <u>Toward Country-scale Traffic Foundation Models: A Safe Vision-Language-Transportation System</u> <br> ITS World Congress 2025, Atlanta, USA. <br>
+- *May. 2025*, <u>Collective Continual Evolution of Decision-Making Systems with Policy-Language Alignment</u> <br> 
+  MIT CLEAR Lab , Boston, USA <br>
+  UCLA Mobility Lab, LA, USA.
+- *Mar. 2025*, Reinforced Continual Evolution of Decision-Making Systems <br>
   School of Vehicle and Mobility, Tsinghua University, Beijing, China. <br>
   Traffic Operations and Simulations Lab, Tongji University, Shanghai, China.
 - *Feb. 2025*, Reinforced Continual Evolution of Decision-Making Systems <br>
