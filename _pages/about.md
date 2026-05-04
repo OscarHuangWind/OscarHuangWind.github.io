@@ -36,6 +36,8 @@ Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational
 
 
 # 🔥 News
+- *May. 2026*: &nbsp;🌱🌱 Our paper **[AutoMoT](https://arxiv.org/abs/2603.14851)** on *Unified Asynchronous VLA as End-to-End Model* has been accepted by **ICML 2026**! Looking forward to seeing you in Seoul, South Korea!
+- *May. 2026*: &nbsp;🌱🌱 I’m pleased to share that I will be serving as an Area Chair at the 12th IEEE International Conference on Cybernetics and Intelligent Systems & Robotics, Automation and Mechatronics (IEEE CIS-RAM 2026), to be held on Aug. 5-7, 2026.
 - *Feb. 2026*: &nbsp;🏅🏅 I am honored to be recognized as a [featured Postdoctoral Researcher](https://www.linkedin.com/feed/update/urn:li:activity:7424743851569061889/) by MAE department, NTU!
 - *Dec. 2025*: &nbsp;☃️☃️ Our work on *enhancing open-ended reasoning of AD-tailored VLM through reinforced fine-tuning (RFT)* is now available on arXiv! [OpenREAD](https://arxiv.org/abs/2512.01830)
 - *Oct. 2025*: &nbsp;🍁🍁 Our work on *Mixture-of-Transformers-based VLA with unified Fast-Slow reasoning* is now available on arXiv! [MoTVLA](https://arxiv.org/abs/2510.18337)
@@ -65,8 +67,29 @@ Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv'25</div>
-      <img src='images/MoTVLA_Gif_Teaser.gif' alt="动态演示" width="100%" style="height: auto; object-fit: contain;">>
+      <br>
+      <div class="badge">ICML'26</div> <br>
+      <img src='images\AutoMoT.gif' alt="动态演示" width="100%" style="height: auto; object-fit: contain;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.14851) 
+
+**Wenhui Huang<sup>1</sup>**, Songyan Zhang<sup>1</sup>, Qihang Huang<sup>1</sup>, Zhidong Wang, Zhiqi Mao, Collister Chua, Zhan Chen, Long Chen, Chen Lv
+
+[**Project**](https://automot-website.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose an **Asynchronous VLA for end-to-end autonomous driving, unifying the scene understanding, decision, and planning within a single Mixture-of-Transformers architecture, while enabling the asynchronous inference across different tasks through KV Caching.** AutoMoT achieves SOTA in the closed-loop longtail benchmark (Bench2Drive) and the Open-loop benchmark (nuScenes Safety). We also investigate the functional boundaries of pretrained VLMs in autonomous driving, clarifying when and to what extent AD-specific fine-tuning is necessary across different tasks.
+
+The source code and model checkpoints will be released by May 2026.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arxiv'25</div>
+      <img src='images/MoTVLA_Gif_Teaser.gif' alt="动态演示" width="100%" style="height: auto; object-fit: contain;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -75,12 +98,12 @@ Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational
 
 <!-- [![](https://img.shields.io/github/stars/OscarHuangWind/Safe-Human-in-the-Loop-RL?style=social&label=Code Stars)](https://github.com/OscarHuangWind/Safe-Human-in-the-Loop-RL) -->
 
-**Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang
+**Wenhui Huang<sup>1</sup>**, Changhe Chen<sup>1</sup>, Han Qi, Chen Lv, Yilun Du, Heng Yang
 
 [**Project**](https://motvla.github.io/MoTVLA-website/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a **Mixture-of-Transformers–based vision–language–action (VLA) model, termed MoTVLA, featuring unified fast–slow reasoning to enable language-steerable action diffusion with motion decomposition**. This design enhances both semantic understanding (general & robotics reasoning) and manipulation performance (Simulation & Real-World) in long-horizon tasks.
+- We propose an **Asynchronous VLA** for end-to-end autonomous driving, **unifying** scene understanding, decision-making, and planning within a single architecture, while enabling **asynchronous inference** via KV caching to meet real-time requirements.
 
-The source code and model checkpoints will be released by March 2026.
+The source code and model checkpoints will be released by May 2026.
 </div>
 </div>
 
@@ -188,6 +211,8 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 
 ## Selected Publications
 
+- [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.14851), **Wenhui Huang<sup>1</sup>**, Songyan Zhang<sup>1</sup>, Qihang Huang<sup>1</sup>, Zhidong Wang, Zhiqi Mao, Collister Chua, Zhan Chen, Long Chen, Chen Lv, **ICML'26**
+
 - [MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning](https://arxiv.org/abs/2510.18337), **Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang, **arXiv'25**
 
 - [OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830), Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zihui Gao, Hao Chen, Chen Lv, **arXiv'25** [![](https://img.shields.io/github/stars/wyddmw/OpenREAD?style=social&label=Code Stars)](https://github.com/wyddmw/OpenREAD)
@@ -241,6 +266,7 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 # 📚 Academic Services
 
 ## Program Committee
+- Area Chair of 12th IEEE International Conference on Cybernetics and Intelligent Systems & Robotics, Automation and Mechatronics (IEEE CIS-RAM 2026).
 - Organizer of Invited Session on "Foundation Model-Empowered Decision-making and Planning for Intelligent Mobility Systems" at ITSC, 2026.
 - Lead organizer of Invited Session on [Foundation Model-Enabled Scene Understanding, Reasoning, and Decision-Making for Autonomous Driving and ITS](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC, 2025.
 - Lead organizer of Invited Session on [Learning-empowered Intelligent Transportation Systems: Foundation Vehicles and Coordination Technique](https://oscarhuangwind.github.io/Foundation_Vehicle/) at ITSC, 2024
@@ -266,6 +292,8 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2026
 
 # 💬 Invited Talk
+- *Apr. 2026*, <u>Reinforced Continual Evolution in Decision Making for Intelligent Transportation Systems</u> <br> Wu Lab, MIT, USA. <br>
+- *Mar. 2026*, <u>Reinforced Continual Evolution of Decision-Making Systems for Robotic Foundation Models</u> <br> SIA Lab, Stanford University, USA. <br>
 - *Sep. 2025*, <u>Toward Country-scale Traffic Foundation Models: A Safe Vision-Language-Transportation System</u> <br> ITS World Congress 2025, Atlanta, USA. <br>
 - *May. 2025*, <u>Collective Continual Evolution of Decision-Making Systems with Policy-Language Alignment</u> <br> 
   MIT CLEAR Lab , Boston, USA <br>
@@ -284,21 +312,7 @@ and Autonomous Racing, Gran Turismo Sophy team, Sony AI, Tokyo, Japan.
 
 <hr>
 
-<p align="center">
-  👀 Visits: <span id="visit-counter">Loading...</span>
-</p>
-
-<script>
-  fetch('https://api.countapi.xyz/hit/oscarhuangwind.github.io/visits')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('visit-counter').innerText = data.value;
-    })
-    .catch(error => {
-      console.error('Visit counter error:', error);
-      document.getElementById('visit-counter').innerText = "N/A";
-    });
-</script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=400&t=tt&d=wcSDNrByaZ2NPXebIm1FlNUSHQfgcFA5jlx5K40D7Sg'></script>
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
