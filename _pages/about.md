@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) and [Harvard Embodied Minds Lab](https://embodied-minds-lab.github.io/), co-advised by <u>Prof. Heng Yang</u> and <u>Prof. Yilun Du</u>. I was a PhD and Research Associate in [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), advised by <u>Prof. Chen Lv</u>, and a Visiting PhD Scholar in Harvard Computational Robotics Group. Previously, I had the pleasure of collaborating with Prof. <u>Francesco Braghin</u> during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
+Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Associate at MIT SMART Centre, advised by <u>Prof. Daniela Rus</u> and M3S CTO <u>Dr. Alok Prakash</u>. Before this position, I conducted postdoctoral research at Harvard and NTU. I was a PhD student and Research Associate in [Automated Driving and Human-Machine System Lab](https://lvchen.wixsite.com/automan) at Nanyang Technological University (NTU), supervised by <u>Prof. Chen Lv</u>, and a Visiting PhD Scholar in [Harvard Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) hosted by <u>Prof. Heng Yang</u>. Previously, I had the pleasure of collaborating with Prof. <u>Francesco Braghin</u> during my time at the [i.Drive Lab](https://www.idrive.polimi.it/).
 
 <!-- 📌 I will graduate in Summer 2025 and am actively seeking a postdoctoral researcher position! Please reach out to me if you think I might be a good fit. 📌 -->
 
@@ -26,16 +26,20 @@ Ciao! I am Wenhui (Oscar) Huang, a Postdoctoral Fellow in [Harvard Computational
 
 | **Research Field**       |**Research Application**            |
 |--------------------------|------------------------------------|
-| Reinforcement Learning   | Intelligent Tranporatation Systems |
-| Continual Learning       | Robotics                           |
-| VLM and VLA              | Autonomous Vehicles                |
-| Human-in-the-Loop AI     | Visual Navigation                  |
+| WAM and VLA              | Robot Learning                     |
+| Continual Learning       | Agentic AI                         |
+| Reinforcement Learning   | Autonomous Vehicles                |
+| Human-in-the-Loop AI     | Intelligent Tranporatation Systems |
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *Oct. 2026*: &nbsp;🏆🏆 My PhD thesis received the **[2025 Vehicles Best PhD Thesis Award](https://www.mdpi.com/journal/vehicles/awards/3715)** from MDPI!
+- *July. 2026*: &nbsp;🏖️🏖️ I’m pleased to share that I will be serving as a **Session Chair of Autonomous Vehicle Safety and Performance Testing 1** at the 29th IEEE ITSC 2026, to be held on Sep. 15-18, 2026.
+- *May. 2026*: &nbsp;🏅🏅 I am honored to be recognized as a **Gold Reviewer at ICML 2026**! Grateful for the opportunity to contribute to the peer-review process and support the machine learning research community.
+- *May. 2026*: &nbsp;🌱🌱 Our robot learning paper **[MoTVLA](https://icml.cc/virtual/2026/69388)** has been accepted by **ICML 2026, 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents**! Looking forward to seeing you in Seoul, South Korea!
 - *May. 2026*: &nbsp;🌱🌱 Our paper **[AutoMoT](https://arxiv.org/abs/2603.14851)** on *Unified Asynchronous VLA as End-to-End Model* has been accepted by **ICML 2026**! Looking forward to seeing you in Seoul, South Korea!
 - *May. 2026*: &nbsp;🌱🌱 I’m pleased to share that I will be serving as an Area Chair at the 12th IEEE International Conference on Cybernetics and Intelligent Systems & Robotics, Automation and Mechatronics (IEEE CIS-RAM 2026), to be held on Aug. 5-7, 2026.
 - *Feb. 2026*: &nbsp;🏅🏅 I am honored to be recognized as a [featured Postdoctoral Researcher](https://www.linkedin.com/feed/update/urn:li:activity:7424743851569061889/) by MAE department, NTU!
@@ -211,9 +215,9 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 
 ## Selected Publications
 
-- [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.14851), **Wenhui Huang<sup>1</sup>**, Songyan Zhang<sup>1</sup>, Qihang Huang<sup>1</sup>, Zhidong Wang, Zhiqi Mao, Collister Chua, Zhan Chen, Long Chen, Chen Lv, **ICML'26**
+- [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.14851), **Wenhui Huang<sup>1</sup>**, Songyan Zhang<sup>1</sup>, Qihang Huang<sup>1</sup>, Zhidong Wang, Zhiqi Mao, Collister Chua, Zhan Chen, Long Chen, Chen Lv, **ICML'26** [![](https://img.shields.io/github/stars/OscarHuangWind/AutoMoT?style=social&label=Code Stars)](https://github.com/OscarHuangWind/AutoMoT)
 
-- [MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning](https://arxiv.org/abs/2510.18337), **Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang, **arXiv'25**
+- [MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning](https://arxiv.org/abs/2510.18337), **Wenhui Huang**, Changhe Chen, Han Qi, Chen Lv, Yilun Du, Heng Yang, **ICML 2026, 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents**
 
 - [OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830), Songyan Zhang<sup>1</sup>, **Wenhui Huang<sup>1</sup>**, Zihui Gao, Hao Chen, Chen Lv, **arXiv'25** [![](https://img.shields.io/github/stars/wyddmw/OpenREAD?style=social&label=Code Stars)](https://github.com/wyddmw/OpenREAD)
 
@@ -246,6 +250,8 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - [Autonomous vehicle driving via deep deterministic policy gradient](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2019/59216/1069916), **Wenhui Huang**, Francesco Braghin, Stefano Arrigoni, **ASME IDETC-CIE'19**
 
 # 🎖 Honors and Awards
+- *Oct. 2026* [2025 Best PhD Thesis Award](https://www.mdpi.com/journal/vehicles/awards/3715), Vehicles (MDPI).
+- *May. 2026* Gold Reviewer at ICML 2026.
 - *Feb. 2026* [featured Postdoctoral Researcher](https://www.linkedin.com/feed/update/urn:li:activity:7424743851569061889/), MAE NTU.
 - *Aug. 2025* [Winner of Asia-Pacific Region](https://www.linkedin.com/posts/itswc2019_itss-itssingapore-intelligent-activity-7367088514867363843-9ajc/), Future Leaders Program of ITS World Congress 2025.
 - *May. 2025* [Champion of 𝗜𝗧𝗦𝗦 𝘅 𝗟𝗧𝗔 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 2025](https://www.linkedin.com/posts/ntumae_ntusg-ntumae-hackathon2025-activity-7319962293352427520-rcuL).
@@ -266,6 +272,7 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 # 📚 Academic Services
 
 ## Program Committee
+- Session Chair of Autonomous Vehicle Safety and Performance Testing 1 at the 29th IEEE ITSC 2026.
 - Area Chair of 12th IEEE International Conference on Cybernetics and Intelligent Systems & Robotics, Automation and Mechatronics (IEEE CIS-RAM 2026).
 - Organizer of Invited Session on "Foundation Model-Empowered Decision-making and Planning for Intelligent Mobility Systems" at ITSC, 2026.
 - Lead organizer of Invited Session on [Foundation Model-Enabled Scene Understanding, Reasoning, and Decision-Making for Autonomous Driving and ITS](https://oscarhuangwind.github.io/ITSC2025_FoundationAD/) at ITSC, 2025.
@@ -284,14 +291,21 @@ Sim to Real Video: [Youtube](https://www.youtube.com/watch?v=P4XWiXknpDA&feature
 - Engineering
 
 ## Conference Reviewer
+- Forty-First AAAI Conference on Artificial Intelligence (AAAI) 2027
+- The Fifteenth International Conference on Learning Representations (ICLR) 2027
+- The Conference on Robot Learning (CoRL) 2026
 - Forty-Third International Conference on Machine Learning (ICML) 2026
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025
 - IEEE International Conference on Robotics and Automation (ICRA) 2023 – 2026
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - 2025
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - 2026
 - IEEE Intelligent Vehicles Symposium (IV) 2023 – 2026
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2023 – 2026
 
 # 💬 Invited Talk
+- *July. 2026*, <u>Rethinking Embodied Decision-Making Systems for 
+Robotic Foundation Models</u> <br> Autonomous Systems and Physical AI Research (ASPIRE) Group, NVIDIA, USA. <br>
+Vehicle Intelligence Lab, Seoul National University, South Korea. <br>
+- *June. 2026*, <u>Rethinking End-to-End Autonomous Driving with Vision-Language-Action Models</u> <br> Autonomous Cognitive and Embodied Systems Lab, KAIST, South Korea. <br>
 - *Apr. 2026*, <u>Reinforced Continual Evolution in Decision Making for Intelligent Transportation Systems</u> <br> Wu Lab, MIT, USA. <br>
 - *Mar. 2026*, <u>Reinforced Continual Evolution of Decision-Making Systems for Robotic Foundation Models</u> <br> SIA Lab, Stanford University, USA. <br>
 - *Sep. 2025*, <u>Toward Country-scale Traffic Foundation Models: A Safe Vision-Language-Transportation System</u> <br> ITS World Congress 2025, Atlanta, USA. <br>
@@ -310,12 +324,13 @@ Driving under Knowledge Guidance, Michigan Traffic Lab, University of Michigan, 
 - *May. 2024*, Uncertainty-aware Reinforcement Learning for Autonomous Driving
 and Autonomous Racing, Gran Turismo Sophy team, Sony AI, Tokyo, Japan.
 
+# 💻 Internships
+- Sharpa: Institute of Embodied Agents.
+
 <hr>
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=400&t=tt&d=wcSDNrByaZ2NPXebIm1FlNUSHQfgcFA5jlx5K40D7Sg'></script>
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- comming soon! -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

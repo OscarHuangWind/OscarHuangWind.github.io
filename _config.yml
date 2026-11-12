@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhui Huang"
-description              : "PhD candidate at NTU, Visiting PhD Scholar at Harvard University."
+description              : "PhD at NTU, <br>Visiting PhD Scholar at Harvard University."
 repository               : "OscarHuangWind/OscarHuangWind.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenhui Huang"
   avatar           : "images/profile_V1.JPG"
-  bio              : "Harvard University, Postdoc. NTU, Research Scientist."
-  location         : "U.S."
+  bio              : "MIT, Postdoc <br>SMART Centre."
+  # location         : "U.S."
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Hpatee0AAAAJ&hl=en"
-  email            : "wenhui001@e.ntu.edu.sg"
+  email            : "oscar525@mit.edu"
+  email_alumni     : "wenhui001@e.ntu.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Wenhui-Huang-3"
   uri              :
   bitbucket        :
